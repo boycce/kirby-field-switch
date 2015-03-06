@@ -14,4 +14,4 @@ switchit:
   label: Switch
   type: switch
   text: You can turn me on and off
-``
+```
