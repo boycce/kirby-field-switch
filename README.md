@@ -15,3 +15,5 @@ switchit:
   type: switch
   text: You can turn me on and off
 ```
+
+As it is basically a single checkbox, [this documentation](http://getkirby.com/docs/cheatsheet/panel-fields/checkbox) applies.
